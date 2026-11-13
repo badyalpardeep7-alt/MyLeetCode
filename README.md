@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -42,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0217-contains-duplicate) |
+| [1512-number-of-good-pairs](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
