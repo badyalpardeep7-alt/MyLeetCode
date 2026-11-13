@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
