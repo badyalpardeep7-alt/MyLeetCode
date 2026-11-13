@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0065-valid-number) |
+| [0412-fizz-buzz](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
