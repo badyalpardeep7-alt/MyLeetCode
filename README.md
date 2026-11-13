@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0016-3sum-closest) |
+| [1470-shuffle-the-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
