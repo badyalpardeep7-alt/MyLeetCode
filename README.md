@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
