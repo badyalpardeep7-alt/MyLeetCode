@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0258-add-digits) |
+| [1603-design-parking-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -55,9 +56,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
