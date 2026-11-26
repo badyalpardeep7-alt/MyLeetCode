@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
