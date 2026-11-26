@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1656-design-an-ordered-stream) |
+| [2349-design-a-number-container-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/2349-design-a-number-container-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/1656-design-an-ordered-stream) |
+| [2349-design-a-number-container-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/2349-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/badyalpardeep7-alt/MyLeetCode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
